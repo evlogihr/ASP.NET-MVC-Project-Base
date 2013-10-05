@@ -1,0 +1,16 @@
+C:\Users\EvlogiHr\Desktop\Telerik\10.ASP.NET MVC\Exam\Exam\Exam.Data\bin\Debug\Exam.Data.dll.config
+C:\Users\EvlogiHr\Desktop\Telerik\10.ASP.NET MVC\Exam\Exam\Exam.Data\bin\Debug\Exam.Data.dll
+C:\Users\EvlogiHr\Desktop\Telerik\10.ASP.NET MVC\Exam\Exam\Exam.Data\bin\Debug\Exam.Data.pdb
+C:\Users\EvlogiHr\Desktop\Telerik\10.ASP.NET MVC\Exam\Exam\Exam.Data\bin\Debug\EntityFramework.dll
+C:\Users\EvlogiHr\Desktop\Telerik\10.ASP.NET MVC\Exam\Exam\Exam.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\EvlogiHr\Desktop\Telerik\10.ASP.NET MVC\Exam\Exam\Exam.Data\bin\Debug\Exam.Models.dll
+C:\Users\EvlogiHr\Desktop\Telerik\10.ASP.NET MVC\Exam\Exam\Exam.Data\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\EvlogiHr\Desktop\Telerik\10.ASP.NET MVC\Exam\Exam\Exam.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\EvlogiHr\Desktop\Telerik\10.ASP.NET MVC\Exam\Exam\Exam.Data\bin\Debug\Exam.Models.pdb
+C:\Users\EvlogiHr\Desktop\Telerik\10.ASP.NET MVC\Exam\Exam\Exam.Data\bin\Debug\EntityFramework.xml
+C:\Users\EvlogiHr\Desktop\Telerik\10.ASP.NET MVC\Exam\Exam\Exam.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\EvlogiHr\Desktop\Telerik\10.ASP.NET MVC\Exam\Exam\Exam.Data\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\EvlogiHr\Desktop\Telerik\10.ASP.NET MVC\Exam\Exam\Exam.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\EvlogiHr\Desktop\Telerik\10.ASP.NET MVC\Exam\Exam\Exam.Data\obj\Debug\Exam.Data.csprojResolveAssemblyReference.cache
+C:\Users\EvlogiHr\Desktop\Telerik\10.ASP.NET MVC\Exam\Exam\Exam.Data\obj\Debug\Exam.Data.dll
+C:\Users\EvlogiHr\Desktop\Telerik\10.ASP.NET MVC\Exam\Exam\Exam.Data\obj\Debug\Exam.Data.pdb
