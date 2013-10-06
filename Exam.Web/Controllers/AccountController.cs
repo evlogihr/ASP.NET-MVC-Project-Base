@@ -88,7 +88,7 @@ namespace Exam.Web.Controllers
             if (ModelState.IsValid)
             {
                 // Create a local login before signing in the user
-                var user = new ApplicationUser() { UserName = model.UserName };
+                var user = new ApplicationUser() { UserName = model.UserName }; // add aditional user properties here!!
                 var result = await IdentityManager.Users.CreateLocalUserAsync(user, model.Password);
                 if (result.Success)
                 {
